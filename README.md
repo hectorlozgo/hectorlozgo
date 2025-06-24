@@ -8,7 +8,7 @@
 
 ### 💫 Sobre mi:
 
-👨🏻‍💻 Soy un desarrollador web apasionado de la tecnología y las motos. Tengo experiencia en desarrollo frontend y backend, usando tecnologías como JavaScript, TypeScript, React, Node.js, MongoDB entre otros.
+👨🏻‍💻 Soy un desarrollador web apasionado por tecnología. Tengo experiencia en desarrollo frontend y backend, usando tecnologías como JavaScript, TypeScript, React, Node.js, MongoDB entre otros.
 
 <section align='center'>
 
