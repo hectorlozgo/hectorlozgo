@@ -1,6 +1,6 @@
 <header>
   <h1 align='center'>
-    Hola! Soy HLozano87 👋
+    Hola! Soy Hector Lozano 👋
   </h1>
 </header>
 
@@ -8,7 +8,7 @@
 
 ### 💫 Sobre mi:
 
-Actualmente en modo desarrollo, recorriendo el camino del héroe. 👨🏻‍💻
+👨🏻‍💻 Soy un desarrollador web apasionado de la tecnología y las motos. Tengo experiencia en desarrollo frontend y backend, usando tecnologías como JavaScript, TypeScript, React, Node.js, MongoDB entre otros.
 
 <section align='center'>
 
