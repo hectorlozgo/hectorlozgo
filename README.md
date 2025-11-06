@@ -16,11 +16,11 @@
 
   #### 📊 GitHub Stats:
 
-  <!-- ![](https://github-readme-stats.vercel.app/api?username=HLozano87&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
+  <!-- ![](https://github-readme-stats.vercel.app/api?username=hectorlozgo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=HLozano87&theme=github_dark&hide_border=true)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=hectorlozgo&theme=github_dark&hide_border=true)
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HLozano87&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorlozgo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
   <img src="img.gif" width= 300px; height= 150px>
 
