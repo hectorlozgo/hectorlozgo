@@ -6,7 +6,7 @@
 
 
 
-### 💫 Sobre mi:
+### Sobre mi:
 
 👨🏻‍💻 Soy un desarrollador web apasionado por la tecnología, con experiencia en desarrollo de aplicaciones escalables, seguras y optimizadas.
 
@@ -19,7 +19,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hectorlozgo&theme=github_dark&hide_border=true)
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorlozgo&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<img src="img.gif" width= 300px; height= 165px>
 
 ---
 </section>
@@ -62,8 +61,6 @@
 
 </div>
 
-  <!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/.) -->
   <!-- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
   <!-- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) -->
