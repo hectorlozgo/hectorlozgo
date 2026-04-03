@@ -1,12 +1,12 @@
 <header>
   <h1 align='center'>
-    Hola! Soy Hector Lozano 👋
+    Hola! Soy Héctor Lozano 👋
   </h1>
 </header>
 
 
 
-### Sobre mi:
+### Sobre mí:
 
 👨🏻‍💻 Soy un desarrollador web apasionado por la tecnología, con experiencia en desarrollo de aplicaciones escalables, seguras y optimizadas.
 
